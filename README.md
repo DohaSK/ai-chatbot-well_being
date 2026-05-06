@@ -68,7 +68,7 @@ TWINWORD_API_KEY="YOUR_TWINWORD_RAPIDAPI_KEY"
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/PASTAyumz/ai-chatbot-well_being.git
+    git clone https://github.com/DohaSK/ai-chatbot-well_being.git
     cd ai-chatbot-well_being
     ```
     (Note: If you are already in the project directory, skip `git clone` and `cd`.)
